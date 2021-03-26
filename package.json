@@ -46,6 +46,7 @@
     "@atlaskit/button": "^15.1.4",
     "@atlaskit/css-reset": "^6.0.5",
     "@atlaskit/side-navigation": "^0.8.3",
+    "@cucumber/gherkin": "^18.0.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-intl": "^2.9.0",
